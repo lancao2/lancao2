@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancao2&label=Profile%20views&color=0e75b6&style=flat" alt="lancao2" /> </p>
 
-- 🔭 I’m currently working on [Insade.out](https://github.com/lancao2/insade.out)
+- 🔭 I’m currently working on [Inside.out](https://github.com/lancao2/insade.out)
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
