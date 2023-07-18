@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Lanção</h1>
-<h3 align="center">frontend developer from Brazil</h3>
+<h3 align="center">Fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancao2&label=Profile%20views&color=0e75b6&style=flat" alt="lancao2" /> </p>
 
