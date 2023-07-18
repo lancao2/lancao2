@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Inside.out](https://github.com/lancao2/insade.out)
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **Next.js V13, Prisma**
 
-- 💬 Ask me about **React, JavaScript, HTML and CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Node.js, Adonis.JS, MySQL, Python, Django, Tailwind, Material UI, Next.js**
 
 - 📫 How to reach me **lancao.af@gmail.com**
 
