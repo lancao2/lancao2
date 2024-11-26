@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancao2&label=Profile%20views&color=0e75b6&style=flat" alt="lancao2" /> </p>
 
-- 🔭 I’m currently working on [Inside.out](https://github.com/lancao2/insade.out)
-
-- 🌱 I’m currently learning **Next.js V13, Prisma, PHP and Laravel**
+- 🔭 I’m currently working on [e-menu](https://github.com/lancao2/e-menu)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Node.js, Adonis.JS, MySQL, Python, Django, Tailwind, Material UI and Next.js**
 
