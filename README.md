@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancao2&label=Profile%20views&color=0e75b6&style=flat" alt="lancao2" /> </p>
 
+- 📍 From Rio de Janeiro - Brazil
+
 - 🔭 I’m currently working on [e-menu](https://github.com/lancao2/e-menu)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Node.js, Adonis.JS, MySQL, Python, Django, Tailwind, Material UI and Next.js**
 
-- 📫 How to reach me **lancao.af@gmail.com**
+- 📫 How to reach me **lancao.af@gmail.com** or [Linkedin](https://www.linkedin.com/in/alexlancao/).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
